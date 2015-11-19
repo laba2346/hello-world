@@ -1,2 +1,2 @@
 # hello-world
-Tutorial
+Tutorial. My name is Landon Baxter, CSCI student at CU Boulder.
